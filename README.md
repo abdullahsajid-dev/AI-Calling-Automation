@@ -432,9 +432,9 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 
-- **GitHub**: [@your-github](https://github.com/your-github)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/)
-- **Email**: your.email@example.com
+- **GitHub**: [@abdullahsajid-dev](https://github.com/abdullahsajid-dev)
+- **LinkedIn**: [Abdullah Sajid](https://www.linkedin.com/in/abdullahsajiddev/)
+- **Email**: abdullahsajid.dev@gmail.com
 
 ---
 
